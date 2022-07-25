@@ -34,7 +34,7 @@ No Licenses.
 
 # Contributors
 
-Myself
+
 
 # Tests
 
@@ -46,8 +46,8 @@ If you have questions, please reach out to me at coltonbloomquist@yahoo.com or v
 
 # Link to Deployed Webpage
 
-https://book-search-engine-cbloomquist.herokuapp.com/
+
 
 # Images of Application
 
-![Screenshot (53)](https://user-images.githubusercontent.com/86384237/146850562-0c853e74-a7b6-441b-8e56-ce4f8f308b06.png)
+
